@@ -1,0 +1,6 @@
+D:\Programming\Project\C# Project\Equ Calc\EquationCalc\EquationCalc\bin\Debug\EquationCalc.exe.config
+D:\Programming\Project\C# Project\Equ Calc\EquationCalc\EquationCalc\bin\Debug\EquationCalc.exe
+D:\Programming\Project\C# Project\Equ Calc\EquationCalc\EquationCalc\bin\Debug\EquationCalc.pdb
+D:\Programming\Project\C# Project\Equ Calc\EquationCalc\EquationCalc\obj\Debug\EquationCalc.csprojResolveAssemblyReference.cache
+D:\Programming\Project\C# Project\Equ Calc\EquationCalc\EquationCalc\obj\Debug\EquationCalc.exe
+D:\Programming\Project\C# Project\Equ Calc\EquationCalc\EquationCalc\obj\Debug\EquationCalc.pdb
